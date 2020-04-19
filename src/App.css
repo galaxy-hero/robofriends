@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Love Babe Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Love Babe Regular'), url('Love Babe 2.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Love Babe Regular';
+    font-weight: 200;
+    color: #BF3FBF;
+}
