@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Carstenz Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Carstenz Regular'), url('Carstenz.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Classic Nosh Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Classic Nosh Regular'), url('ClassicNosh-Regular.woff') format('woff');
+}
+
+h2 {
+    font-family: 'Carstenz Regular';
+    font-weight: 200;
+    color: #BF3FBF;
+    font-size: 45px;
+}
+
+p {
+    font-family: 'Classic Nosh Regular';
+    font-weight: 200;
+    color: #BF3FBF;
+    font-size: 35px;
+}
